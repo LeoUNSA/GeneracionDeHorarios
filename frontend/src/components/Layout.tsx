@@ -15,6 +15,7 @@ import {
 import MenuIcon from '@mui/icons-material/Menu';
 import DashboardIcon from '@mui/icons-material/Dashboard';
 import UploadFileIcon from '@mui/icons-material/UploadFile';
+import StorageIcon from '@mui/icons-material/Storage';
 import { useNavigate } from 'react-router-dom';
 
 const drawerWidth = 240;
@@ -34,6 +35,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
   const menuItems = [
     { text: 'Dashboard', icon: <DashboardIcon />, path: '/' },
     { text: 'Cargar Datos', icon: <UploadFileIcon />, path: '/cargar-datos' },
+    { text: 'Gestión de Datos', icon: <StorageIcon />, path: '/datos' },
   ];
 
   const drawer = (

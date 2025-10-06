@@ -5,6 +5,7 @@ import CssBaseline from '@mui/material/CssBaseline';
 import Layout from './components/Layout';
 import DataLoader from './pages/DataLoader';
 import Dashboard from './pages/Dashboard';
+import DataManagement from './pages/DataManagement';
 
 const theme = createTheme({
   palette: {
@@ -26,6 +27,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/cargar-datos" element={<DataLoader />} />
+            <Route path="/datos" element={<DataManagement />} />
           </Routes>
         </Layout>
       </Router>

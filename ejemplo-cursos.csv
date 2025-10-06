@@ -1,0 +1,13 @@
+codigo,nombre,creditos,tipo,profesor,aula,horario,dias
+CS101,Algoritmos y Estructuras de Datos,4,Obligatorio,Dr. García Pérez,A-101,08:00-10:00,Lunes-Miércoles
+CS102,Programación Orientada a Objetos,4,Obligatorio,Dra. López Sánchez,B-202,10:00-12:00,Martes-Jueves
+CS201,Base de Datos,3,Obligatorio,Dr. Martínez Torres,A-105,14:00-16:00,Lunes-Miércoles
+CS202,Sistemas Operativos,4,Obligatorio,Dr. Rodríguez Gómez,C-301,08:00-10:00,Martes-Jueves
+CS203,Redes de Computadoras,3,Obligatorio,Dra. Fernández Díaz,B-210,16:00-18:00,Miércoles-Viernes
+CS301,Inteligencia Artificial,4,Electivo,Dr. Ramírez Castro,A-107,10:00-12:00,Lunes-Miércoles
+CS302,Desarrollo Web,3,Electivo,Dra. Morales Ruiz,D-401,14:00-16:00,Martes-Jueves
+CS303,Seguridad Informática,3,Electivo,Dr. Vargas Luna,C-305,16:00-18:00,Lunes-Miércoles
+MAT101,Cálculo I,4,Obligatorio,Dr. Herrera Soto,A-103,08:00-10:00,Lunes-Miércoles-Viernes
+MAT102,Álgebra Lineal,3,Obligatorio,Dra. Silva Ramos,B-205,10:00-12:00,Martes-Jueves
+FIS101,Física I,4,Obligatorio,Dr. Mendoza Cruz,C-302,14:00-16:00,Lunes-Miércoles
+FIS102,Laboratorio de Física,2,Obligatorio,Dr. Mendoza Cruz,LAB-01,16:00-18:00,Miércoles
